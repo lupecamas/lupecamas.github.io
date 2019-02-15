@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # My first creation 
-[Link] https://studio.code.org/projects/applab/pRpBjuBHoA7gh86ktYb8NGkfIWTI-8pnyeEfAaPEdlw/editl) 
+[Link](https://studio.code.org/projects/applab/pRpBjuBHoA7gh86ktYb8NGkfIWTI-8pnyeEfAaPEdlw/editl) 
 ## Header 2
 ### Header 3
 
