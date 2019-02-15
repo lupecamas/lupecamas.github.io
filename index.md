@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lupecamas/lupecamas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello World!! Welcome to my page here you will find my creations and I what I currently doing for my senior year.
+If you are luck enough to find my page feedback would be great.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
